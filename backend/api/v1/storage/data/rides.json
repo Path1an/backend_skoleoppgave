@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "ride1",
+        "method": "train"
+    }, 
+    {
+        "id": 2,
+        "name": "ride2",
+        "method": "buss"
+    },
+    {
+        "id": 3,
+        "name": "ride3",
+        "method": "boat"
+    },
+    {
+        "id": 4,
+        "name": "ride4",
+        "method": "taxi"
+    },
+    {
+        "id": 5,
+        "name": "ride5",
+        "method": "plane"
+    },
+    {
+        "id": 6,
+        "name": "ride6",
+        "method": "buss"
+    }
+]
